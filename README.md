@@ -79,7 +79,7 @@ The app defines following CRUD APIs.
 
 You can test them using postman or any other rest client.
 
-## Learn how to create a client for this web service with React
+## Learn how to create a React client for this web service
 
 You can find the tutorial for this application on my blog -
 
