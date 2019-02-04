@@ -15,7 +15,7 @@ Build Restful CRUD API for a simple ToDoList application using Spring Boot, Mysq
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/rfatcakr/...
+git clone https://github.com/rfatcakr/todolist_WebService.git
 ```
 
 **2. Create Mysql database**
